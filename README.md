@@ -1,5 +1,5 @@
 <h1><strong>OLÁ, ME CHAMO ERIC CAMPOS</strong></h1>
-<h3>Sou desenvolvedor Fulstack, atualmente me graduando em Sistemas de Informação e atualmente atuo com diversas linguagens :D</h3>
+<h3>Sou desenvolvedor Fulstack, graduando em sistemas de informação, confira minhas stacks</h3>
 
 <table border="0">
   <tr>
