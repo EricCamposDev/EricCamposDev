@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduação em Sistemas de Informação (trancado).
+- 🎓 Graduação em Sistemas de Informação.
 <!-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.-->
 - 🌱 Me especializando no ecosistema Microsoft.
 
